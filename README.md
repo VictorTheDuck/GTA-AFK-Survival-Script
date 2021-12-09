@@ -1,5 +1,5 @@
 # GTA-AFK-Survival-Script
-Gta fully afk money making method (1m+ overnight) 
+Gta Online fully afk money making method (1m+ overnight) 
 
 **TO STOP THE SCRIPT, PRESS CTRL + C IN YOUR TERMINAL OR MOVE YOUR MOUSE TO A CORNER AND WAIT 10 SECONDS**
 
